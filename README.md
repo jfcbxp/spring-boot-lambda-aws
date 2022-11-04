@@ -1,4 +1,4 @@
 # spring-boot-lambda-aws
 
 – Key: JAVA_TOOL_OPTIONS
-– Value: -XX:+TieredCompilation -XX:TieredStopAtLevel=1
+-Xms400m -XX:+TieredCompilation -XX:TieredStopAtLevel=1
